@@ -1,0 +1,1 @@
+This library contains iterations of codes used to attempt to create a functioning,real time tracking device based entirely on sound localization with a microphone array.
